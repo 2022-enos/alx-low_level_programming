@@ -16,7 +16,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	B = n % 10;
 
-	if (B = 5)
+	if (B > 5)
 		printf("%s %d is %d and is greater than 5\n", str, n, B);
 	else if (B == 0)
 		printf("%s %d is %d and is 0\n", str, n, B);
