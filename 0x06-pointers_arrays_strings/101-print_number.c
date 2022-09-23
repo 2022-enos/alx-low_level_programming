@@ -24,3 +24,7 @@ void print_number(int n)
 	}
 	_putchar((num % 10) + '0');
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
